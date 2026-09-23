@@ -1,3 +1,7 @@
+<img width="1623" height="991" alt="截圖 2026-09-23 晚上10 22 38" src="https://github.com/user-attachments/assets/e991d600-ab31-4e4d-95bd-df8a48873b13" />
+
+網頁連結：https://ang-jeng-github-33bgfwqdx-ang-jeng.vercel.app
+
 # 台灣氣象儀表板 (Taiwan Weather Dashboard)
 
 整合「中央氣象署 Open Data API」、「Python 資料處理與 SQLite」、「Next.js 14 前後端」並可直接部署於 Vercel 的現代化台灣即時天氣觀測與預報儀表板。
